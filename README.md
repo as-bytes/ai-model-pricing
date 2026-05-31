@@ -1,12 +1,14 @@
 # AI-Model-Pricing
 
 > Due to the frequent changes of AI models I wanted to research current prices
-to keep track of the current options
+> to keep track of the current options
 
 ## Cheapest Products
 
+> Models with fixed pricing and Quota-Resets
 
-| Product           | Plan     | Price      | Additional Models                                                  | URL                                              | 
+
+| Product           | Plan     | Price      | Additional Models                                                  | URL                                              |
 | ----------------- | -------- | ---------- | ------------------------------------------------------------------ | ------------------------------------------------ |
 | Google Gemini     | AI Plus  | 7,99 EUR   | Gemini Flash 3.5                                                   | https://one.google.com/ai                        |
 | OpenAi ChatGPT    | Go       | 8,00 EUR   | ChatGPT 5.5 Instant                                                | https://chatgpt.com/pricing/                     |
@@ -14,7 +16,7 @@ to keep track of the current options
 | Ollama            | Pro      | 20 USD     | GLM 5.1, Qwen 3.6, MiniMax M2.7, Kimi K2.6, Deepseek V4 Pro        | https://ollama.com/pricing                       |
 | MiniMax           | Starter  | 10 USD     | MiniMax M2.7                                                       | https://platform.minimax.io/subscribe/token-plan |
 | OpenCode          | Go       | 10 USD     | GLM 5.1, Qwen 3.7, MiniMax M2.7, Kimi K2.6, Deepseek V4 Pro        | https://opencode.ai/go                           |
-| Microsoft Copilot | ~~Pro~~  | ~~10 USD~~ | ~~GPT 5.4, Gemini 3.5 Flash, Claude Sonnet 4.6, Grok Code Fast 1~~ | https://github.com/features/copilot/plans        | 
+| Microsoft Copilot | ~~Pro~~  | ~~10 USD~~ | ~~GPT 5.4, Gemini 3.5 Flash, Claude Sonnet 4.6, Grok Code Fast 1~~ | https://github.com/features/copilot/plans        |
 | Kimi Code         | Moderato | 19 USD     | Kimi K2.6                                                          | https://www.kimi.com/membership/pricing          |
 | Windsurf          | Pro      | 20 USD     | SWE 1.6                                                            | https://windsurf.com/pricing                     |
 | Cursor            | Pro      | 20 USD     | Composer, Opus, GPT, Gemini, Grok                                  | https://cursor.com/de/pricing                    |
@@ -23,3 +25,18 @@ to keep track of the current options
 
  Todo: 
  - [ ] next update: also add unique USP's e.g. Kimi with Kimi Claw, ChatGPT with Codex (Cloud-Agent), Mini Max with Token-Reset after few hours, Gemini with Storage Plan...
+
+## Free Products
+
+> Models with free limited Quota
+
+| Product                | Models                                                                                  | URL                                                 |
+| ---------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| OpenCode CLi           | DeepSeek V4 Flash, MiMo v2.5, Nemotron 3 Super                                          | https://github.com/anomalyco/opencode               |
+| Cline CLI              | DeepSeek V4 Flash, MiMo-V2.5, Gemma 4 26B A4B, Qwen3 Coder 480B A35B                    | https://github.com/cline/cline                      |
+| Google Gemini CLI      | Gemini 3 Flash Preview, Gemini 3.1 Flash Lite Preview, Gemini 2.5 Flash, Gemma 4 31B IT | https://github.com/google-gemini/gemini-cli         |
+| Google Antigravity CLI | Gemini 3.5 Flash, Gemini 3.1 Pro, Claude Sonnet 4.6, Claude Opus 4.6, GPT-OSS 120B      | https://antigravity.google/download#antigravity-cli |
+| OpenRouter API         | DeepSeek V4 Flash, Kimi K2.6, Qwen3 Coder 480B A35B, MiniMax M2.5, MiMo 2.5             | https://openrouter.ai/models                        |
+| Groq API               | GPT OSS 120B, Llama 4 Scout, Qwen 3 32B                                                 | https://console.groq.com/home                       |
+   
+> API products can be integrated with Cline CLI or OpenCode CLI 
