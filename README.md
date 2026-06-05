@@ -21,7 +21,7 @@
 | Kimi Code         | Moderato    | 19 USD     | Kimi K2.6                                                          | https://www.kimi.com/membership/pricing          |
 | Windsurf          | Pro         | 20 USD     | SWE 1.6                                                            | https://windsurf.com/pricing                     |
 | Cursor            | Pro         | 20 USD     | Composer, Opus, GPT, Gemini, Grok                                  | https://cursor.com/de/pricing                    |
-| Supermaven        | Pro         | 10 USD     | Babble                                                             | https://windsurf.com/pricing                     |
+| Supermaven        | Pro         | 10 USD     | Babble                                                             | https://supermaven.com/pricing                   |
  
 
  Todo: 
@@ -39,5 +39,8 @@
 | Google Antigravity CLI | Gemini 3.5 Flash, Gemini 3.1 Pro, Claude Sonnet 4.6, Claude Opus 4.6, GPT-OSS 120B      | https://antigravity.google/download#antigravity-cli |
 | OpenRouter API         | DeepSeek V4 Flash, Kimi K2.6, Qwen3 Coder 480B A35B, MiniMax M2.5, MiMo 2.5             | https://openrouter.ai/models                        |
 | Groq API               | GPT OSS 120B, Llama 4 Scout, Qwen 3 32B                                                 | https://console.groq.com/home                       |
-   
+| Kiro CLI               | Qwen3-Coder-Next, GLM-5, MiniMax M2.5, Deepseek 3.2, Claude Haiku/Sonnet 4.5            | https://kiro.dev/cli                                |
+| Copilot CLI            | GPT-5 mini, Claude Haiku 4.5                                                            | https://github.com/features/copilot/cli             |
+| Devin CLI              | SWE-1.6 Slow                                                                            | https://docs.devin.ai/cli                           |
+       
 > API products can be integrated with Cline CLI or OpenCode CLI 
