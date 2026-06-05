@@ -22,6 +22,7 @@
 | Windsurf          | Pro         | 20 USD     | SWE 1.6                                                            | https://windsurf.com/pricing                     |
 | Cursor            | Pro         | 20 USD     | Composer, Opus, GPT, Gemini, Grok                                  | https://cursor.com/de/pricing                    |
 | Supermaven        | Pro         | 10 USD     | Babble                                                             | https://supermaven.com/pricing                   |
+| Mistral Vibe      | Pro         | 14.99 USD  | Mistral                                                            | https://mistral.ai/pricing                       |
  
 
  Todo: 
@@ -42,5 +43,6 @@
 | Kiro CLI               | Qwen3-Coder-Next, GLM-5, MiniMax M2.5, Deepseek 3.2, Claude Haiku/Sonnet 4.5            | https://kiro.dev/cli                                |
 | Copilot CLI            | GPT-5 mini, Claude Haiku 4.5                                                            | https://github.com/features/copilot/cli             |
 | Devin CLI              | SWE-1.6 Slow                                                                            | https://docs.devin.ai/cli                           |
+| Mistral Vibe CLI       | Mitral Medium 3.5, Devstral-Small                                                       | https://github.com/mistralai/mistral-vibe           |
        
 > API products can be integrated with Cline CLI or OpenCode CLI 
