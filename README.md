@@ -10,8 +10,8 @@
 
 | Product           | Plan        | Price         | Additional Models                                                  | URL                                              |
 | ----------------- | ----------- | ------------- | ------------------------------------------------------------------ | ------------------------------------------------ |
+| Google Gemini     | AI Plus     |  4,99 EUR     | Gemini Flash 3.5, Gemini 3.1 Pro                                   | https://one.google.com/ai                        |
 | Xiaomi MiMo       | Lite        |  6.00 USD     | MiMo 2.5 Pro / ASR / TTS                                           | https://platform.xiaomimimo.com/token-plan       |
-| Google Gemini     | AI Plus     |  7,99 EUR     | Gemini Flash 3.5                                                   | https://one.google.com/ai                        |
 | OpenAi ChatGPT    | Go          |  8,00 EUR     | ChatGPT 5.5 Instant                                                | https://chatgpt.com/pricing/                     |
 | OpenCode          | Go          | 10,00 USD     | GLM 5.1, Qwen 3.7, MiniMax M2.7, Kimi K2.6, Deepseek V4 Pro        | https://opencode.ai/go                           |
 | Supermaven        | Pro         | 10,00 USD     | Babble                                                             | https://supermaven.com/pricing                   |
