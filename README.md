@@ -8,7 +8,7 @@
 > Models with fixed pricing and Quota-Resets
 
 
-| Product           | Plan        | Price         | Additional Models                                                  | URL                                              |
+| Product           | Plan        | Price ↓       | Additional Models                                                  | URL                                              |
 | ----------------- | ----------- | ------------- | ------------------------------------------------------------------ | ------------------------------------------------ |
 | Google Gemini     | AI Plus     |  4,99 EUR     | Gemini Flash 3.5, Gemini 3.1 Pro                                   | https://one.google.com/ai                        |
 | Xiaomi MiMo       | Lite        |  6.00 USD     | MiMo 2.5 Pro / ASR / TTS                                           | https://platform.xiaomimimo.com/token-plan       |
@@ -19,12 +19,11 @@
 | Z.ai              | Lite        | 16.20 USD     | GLM 5.2                                                            | https://z.ai/subscribe                           |
 | Anthropic Claude  | Pro         | 17,00 USD     | Opus 4.8                                                           | https://claude.com/de/pricing                    |
 | Kimi Code         | Moderato    | 19,00 USD     | Kimi K2.6                                                          | https://www.kimi.com/membership/pricing          |
-| Ollama            | Pro         | 20,00 USD     | GLM 5.1, Qwen 3.6, MiniMax M2.7, Kimi K2.6, Deepseek V4 Pro        | https://ollama.com/pricing                       |
-| MiniMax           | Plus        | 20,00 USD     | MiniMax M2.7, MiniMax M3.0                                         | https://platform.minimax.io/subscribe/token-plan |
-| Windsurf          | Pro         | 20,00 USD     | SWE 1.6                                                            | https://windsurf.com/pricing                     |
 | Cursor            | Pro         | 20,00 USD     | Composer, Opus, GPT, Gemini, Grok                                  | https://cursor.com/de/pricing                    |
-| Microsoft Copilot | Pro         | 10,00 USD     | GPT 5.5, Gemini 3.5 Flash, Claude Sonnet 4.6, Grok Code Fast 1     | https://github.com/features/copilot/plans        |
-| MiniMax           | Plus        | 20,00 USD     | MiniMax M2.7                                                       | https://platform.minimax.io/subscribe/token-plan |
+| Github Copilot    | Pro         | 10,00 USD     | GPT 5.5, Gemini 3.5 Flash, Claude Sonnet 4.6, Grok Code Fast 1     | https://github.com/features/copilot/plans        |
+| MiniMax           | Plus        | 20,00 USD     | MiniMax M3.0                                                       | https://platform.minimax.io/subscribe/token-plan |
+| Ollama            | Pro         | 20,00 USD     | GLM 5.1, Qwen 3.6, MiniMax M2.7, Kimi K2.6, Deepseek V4 Pro        | https://ollama.com/pricing                       |
+| Windsurf          | Pro         | 20,00 USD     | SWE 1.6                                                            | https://windsurf.com/pricing                     |
   
 
  Todo:  
