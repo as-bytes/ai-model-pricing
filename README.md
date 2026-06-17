@@ -23,7 +23,7 @@
 | MiniMax           | Plus        | 20,00 USD     | MiniMax M2.7, MiniMax M3.0                                         | https://platform.minimax.io/subscribe/token-plan |
 | Windsurf          | Pro         | 20,00 USD     | SWE 1.6                                                            | https://windsurf.com/pricing                     |
 | Cursor            | Pro         | 20,00 USD     | Composer, Opus, GPT, Gemini, Grok                                  | https://cursor.com/de/pricing                    |
-| Microsoft Copilot | ~~Pro~~     | ~~10,00 USD~~ | ~~GPT 5.4, Gemini 3.5 Flash, Claude Sonnet 4.6, Grok Code Fast 1~~ | https://github.com/features/copilot/plans        |
+| Microsoft Copilot | Pro         | 10,00 USD     | GPT 5.5, Gemini 3.5 Flash, Claude Sonnet 4.6, Grok Code Fast 1     | https://github.com/features/copilot/plans        |
 | MiniMax           | ~~Starter~~ | ~~10,00 USD~~ | ~~MiniMax M2.7~~                                                   | https://platform.minimax.io/subscribe/token-plan |
   
 
