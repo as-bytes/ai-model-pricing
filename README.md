@@ -16,6 +16,7 @@
 | OpenCode          | Go          | 10,00 USD     | GLM 5.1, Qwen 3.7, MiniMax M2.7, Kimi K2.6, Deepseek V4 Pro        | https://opencode.ai/go                           |
 | Supermaven        | Pro         | 10,00 USD     | Babble                                                             | https://supermaven.com/pricing                   |
 | Mistral Vibe      | Pro         | 14.99 USD     | Mistral                                                            | https://mistral.ai/pricing                       |
+| Z.ai              | Lite        | 16.20 USD     | GLM 5.2                                                            | https://z.ai/subscribe                           |
 | Anthropic Claude  | Pro         | 17,00 USD     | Opus 4.8                                                           | https://claude.com/de/pricing                    |
 | Kimi Code         | Moderato    | 19,00 USD     | Kimi K2.6                                                          | https://www.kimi.com/membership/pricing          |
 | Ollama            | Pro         | 20,00 USD     | GLM 5.1, Qwen 3.6, MiniMax M2.7, Kimi K2.6, Deepseek V4 Pro        | https://ollama.com/pricing                       |
