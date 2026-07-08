@@ -27,7 +27,6 @@
 | Ollama           | Pro        | 20,00 USD | GLM 5.1, Qwen 3.6, MiniMax M2.7, Kimi K2.6, Deepseek V4 Pro    | https://ollama.com/pricing                       |
 | Windsurf         | Pro        | 20,00 USD | SWE 1.6                                                        | https://windsurf.com/pricing                     |
 
-
  Todo:  
  - [ ] next update: also add unique USP's e.g. Kimi with Kimi Claw, ChatGPT with Codex (Cloud-Agent), Mini Max with Token-Reset after few hours, Gemini with Storage Plan...
 
@@ -48,5 +47,6 @@
 | Devin CLI              | SWE-1.6 Slow                                                                            | https://docs.devin.ai/cli                           |
 | Mistral Vibe CLI       | Mitral Medium 3.5, Devstral-Small                                                       | https://github.com/mistralai/mistral-vibe           |
 | Kiro CLI               | Qwen3-Coder-Next, GLM-5, MiniMax M2.5, Deepseek 3.2, Claude Haiku/Sonnet 4.5            | https://kiro.dev/cli                                |
+| Cerebras API           | Gemma 4 31B IT, Z.AI GLM-4.7, GPT OSS 120B                                              | https://www.cerebras.ai/pricing                     |
 
 > API products can be integrated with Cline CLI or OpenCode CLI 
