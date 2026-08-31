@@ -19,8 +19,8 @@
 | Supermaven       | Pro        | 10,00 USD | Babble                                                         | https://supermaven.com/pricing                                 |
 | Mistral Vibe     | Pro        | 14.99 USD | Mistral                                                        | https://mistral.ai/pricing                                     |
 | Z.ai             | Lite       | 16.20 USD | GLM 5.2                                                        | https://z.ai/subscribe                                         |
-| Anthropic Claude | Pro        | 17,00 USD | Opus 4.8                                                       | https://claude.com/de/pricing                                  |
-| Kimi Code        | Moderato   | 19,00 USD | Kimi K2.6                                                      | https://www.kimi.com/membership/pricing                        |
+| Anthropic Claude | Pro        | 17,00 USD | Fable 5, Opus 4.8                                              | https://claude.com/de/pricing                                  |
+| Kimi Code        | Moderato   | 19,00 USD | Kimi K3, Kimi K2.6                                             | https://www.kimi.com/membership/pricing                        |
 | Sakana AI Fugu   | Standard   | 20,00 USD | Fugu Ultra                                                     | https://sakana.ai/fugu/                                        |
 | Cursor           | Pro        | 20,00 USD | Composer, Opus, GPT, Gemini, Grok                              | https://cursor.com/de/pricing                                  |
 | Github Copilot   | Pro        | 10,00 USD | GPT 5.5, Gemini 3.5 Flash, Claude Sonnet 4.6, Grok Code Fast 1 | https://github.com/features/copilot/plans                      |
