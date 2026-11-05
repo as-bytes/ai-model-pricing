@@ -11,6 +11,7 @@
 | Product          | Plan       | Price ↓   | Additional Models                                              | URL                                                            |
 | ---------------- | ---------- | --------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
 | Google Gemini    | AI Plus    | 4,99 EUR  | Gemini Flash 3.5, Gemini 3.1 Pro                               | https://one.google.com/ai                                      |
+| OpenScale        | Lite       | 5,00 USD  | Deepseek 4.1 Flash, GLM 5.3 Flash                              | https://openscale.so/unlimited#plans                           |
 | Xiaomi MiMo      | Lite       | 6.00 USD  | MiMo 2.5 Pro / ASR / TTS                                       | https://platform.xiaomimimo.com/token-plan                     |
 | Alibaba Cloud    | Lite       | 6.00 USD  | Qwen 3.8, GLM 5.2, Deepseek-V4-Pro                             | https://www.alibabacloud.com/en/campaign/ai-landing-page-token |
 | Stepfun          | Flash Mini | 6,99 USD  | Step 3.7 Flash, Step 3.5 Flash                                 | https://platform.stepfun.ai/step-plan                          |
